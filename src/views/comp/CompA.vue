@@ -13,15 +13,4 @@ import { ref } from 'vue';
 let count = ref(0) 
 </script>
 
-<style lang="scss" scoped>
-article {
-  padding: 20px 50px;
-  text-align: left;
-
-  ol {
-    li {
-      line-height: 30px;
-    }
-  }
-}
-</style>
+<style lang="scss" scoped></style>
