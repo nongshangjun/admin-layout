@@ -27,6 +27,17 @@ npm run dev
  
 
 ## 一些插件安装记录
+vue路由
+
+```
+npm install vue-router@4
+```
+
+vue状态管理
+
+```
+npm install pinia
+```
 
 normalize.css  需安装
 
