@@ -14,6 +14,8 @@ npm install
 npm run dev
 ```
 
+# 本地开发时使用的node版本
+v18.12.1
 
 
 ## 主要技术栈
